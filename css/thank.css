@@ -1,0 +1,82 @@
+* {
+    font-family: 'Helvetica Neue',Helvetica,Arial,'SF Pro TC','PingFang TC','Microsoft JhengHei',sans-serif !important;
+    -webkit-font-smoothing: antialiased;
+}
+
+.after_block{
+	position: relative;
+    color: #e0253f;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.thank_group{
+	padding-top: 40px;
+}
+
+.col-md-12.col-sm-12{
+	padding-top: 20px;
+}
+.ticket_block{
+    margin: 0 16px 16px 0;
+    padding: 46px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid #888;
+    min-width: 100%;
+	min-height: 370px;
+}
+
+.t_title{
+	 text-align:  center;
+    font-size: 20px;
+    margin-bottom: 35px;
+    color: #ff2a48;
+    font-weight: 600;
+}
+.t_img{
+	    margin-bottom: 16px;
+}
+.t_01{
+	
+    font-size: 18px;
+    font-weight: 800;
+
+}
+.t_02{
+	color:gray;
+}
+.b_btn{
+	margin-bottom: 30px;
+    margin-left: -15px;
+}
+
+.c-btn1 {
+
+    padding: 15px 6px;
+    min-width: 100px;
+  
+}
+@media(max-width: 768px){
+	
+	.ticket_info {
+		text-align: center;
+		margin-bottom: 40px;
+	}
+	.thank_group {
+	    padding-left: 30px;
+	}
+		
+	.ticket_block {
+	    padding: 15px;
+	    margin: 0 0 20px;
+		min-width: 100%;
+	}
+	
+	.ticket_left {
+		padding-right: 5px;
+	}
+	.ticket_right {
+		padding-left: 5px;
+	}
+}
