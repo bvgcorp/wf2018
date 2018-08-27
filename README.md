@@ -13,6 +13,7 @@ WirForce 2018
 ## 特別感謝LOGO設定
 1. 編輯 inc/inc_logo.php
 2. LOGO圖片上傳至 img/thank
+3. LOGO規格：378px*100px，PNG
 
 ## 媒體報導頁
 * 檔案 news.php
